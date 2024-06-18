@@ -8,10 +8,19 @@ A passionate developer, lifelong learner, and tech enthusiast. I mostly work wit
 - [LinkedIn](https://www.linkedin.com/in/web-scientist/)
 - [Twitter](https://twitter.com/KoningDavid_I)
 
+  
+## 💡 Fun Fact
+
+I type faster 100wmp
+https://monkeytype.com/profile/Koning
+
+![Screenshot 2024-06-18 at 1 32 30 PM](https://github.com/oluwagbemigadavid/oluwagbemigadavid/assets/39445905/736c2206-9c6b-4689-b6ce-c8b6c6ac51fa)
+
 <!--
 **oluwagbemigadavid/oluwagbemigadavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![Screenshot 2024-06-18 at 1 31 38 PM](https://github.com/oluwagbemigadavid/oluwagbemigadavid/assets/39445905/8a941bb3-e4e1-4cfd-b100-09c66a00e30f)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
