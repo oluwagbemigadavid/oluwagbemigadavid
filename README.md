@@ -11,8 +11,7 @@ A passionate developer, lifelong learner, and tech enthusiast. I mostly work wit
   
 ## 💡 Fun Fact
 
-I type faster 100wmp
-https://monkeytype.com/profile/Koning
+[I type faster 100wmp](https://monkeytype.com/profile/Koning)
 
 ![Screenshot 2024-06-18 at 1 32 30 PM](https://github.com/oluwagbemigadavid/oluwagbemigadavid/assets/39445905/736c2206-9c6b-4689-b6ce-c8b6c6ac51fa)
 
