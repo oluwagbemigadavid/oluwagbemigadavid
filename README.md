@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hello, World!
+
+I’m David. Goliath Slayer.
+A passionate developer, lifelong learner, and tech enthusiast. I mostly work with Javascript, React, and anything else needed to get the job done. I try to build beautiful and functional things for the web. Glad to have you around!
+
+## 💬 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/web-scientist/)
+- [Twitter](https://twitter.com/KoningDavid_I)
 
 <!--
 **oluwagbemigadavid/oluwagbemigadavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
