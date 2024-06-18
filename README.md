@@ -1,4 +1,4 @@
-# 👋 Hello, World!
+# 👋 Hello, friend!
 
 I’m David. Goliath Slayer.
 A passionate developer, lifelong learner, and tech enthusiast. I mostly work with Javascript, React, and anything else needed to get the job done. I try to build beautiful and functional things for the web. Glad to have you around!
