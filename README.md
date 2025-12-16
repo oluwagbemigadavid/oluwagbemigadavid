@@ -1,32 +1,32 @@
-# 👋 Hello, friend!
+# 👋 Hey, I’m David.
 
-I’m David. Goliath Slayer.
-A passionate developer, lifelong learner, and tech enthusiast. I mostly work with Javascript, React, and anything else needed to get the job done. I try to build beautiful and functional things for the web. Glad to have you around!
+I’m a software developer building **clean, fast, and reliable web experiences**. I work primarily with **JavaScript and React**, and I care about writing code that survives real-world use.
 
-## 💬 Let's Connect!
+I focus on outcomes over tools. I learn fast, adapt quickly, and ship.
 
-- [LinkedIn](https://www.linkedin.com/in/web-scientist/)
-- [Twitter](https://twitter.com/KoningDavid_I)
+I care about:
+- Production-quality code
+- Simple, intentional user interfaces
+- Strong developer workflows (including modern tooling)
+- Constantly sharpening my technical edge
 
-  
-## 💡 Fun Fact
+If it solves the problem, I’ll use it.
 
-[I type faster than 100wmp](https://monkeytype.com/profile/Koning)
+---
 
-![Screenshot 2024-06-18 at 1 32 30 PM](https://github.com/oluwagbemigadavid/oluwagbemigadavid/assets/39445905/736c2206-9c6b-4689-b6ce-c8b6c6ac51fa)
+## 🔗 Connect
 
-<!--
-**oluwagbemigadavid/oluwagbemigadavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **LinkedIn:** https://www.linkedin.com/in/web-scientist/
+- **Twitter/X:** https://twitter.com/KoningDavid_I
 
-Here are some ideas to get you started:![Screenshot 2024-06-18 at 1 31 38 PM](https://github.com/oluwagbemigadavid/oluwagbemigadavid/assets/39445905/8a941bb3-e4e1-4cfd-b100-09c66a00e30f)
+---
 
+## ⚡ Proof of Obsession
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I type at **100+ WPM** — because speed compounds when you live in the terminal.
+
+👉 https://monkeytype.com/profile/Koning
+
+---
+
+> I don’t chase titles. I build things that work.
